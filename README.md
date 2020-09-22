@@ -1,3 +1,4 @@
+Aplicação que permite a busca de repositórios no Github através da API do mesmo. Na tela de detalhe de cada repo, lista as stars, forks e open issues. Armazena os dados retornados no local storage.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
